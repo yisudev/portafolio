@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/build/static/css/main.a0efe9fd.css",
+    "main.js": "/portfolio/build/static/js/main.d0de7106.js",
+    "static/media/CV-JESUS-BAEZ.pdf": "/portfolio/build/static/media/CV-JESUS-BAEZ.ef5dd453db8c81324cc1.pdf",
+    "static/media/fondo.webp": "/portfolio/build/static/media/fondo.5facee8440baa7a9545d.webp",
+    "static/media/foto2.webp": "/portfolio/build/static/media/foto2.c30ce9a596ecff702120.webp",
+    "static/media/react.webp": "/portfolio/build/static/media/react.bc8d00e4bb9126ac16dd.webp",
+    "static/media/sql.webp": "/portfolio/build/static/media/sql.efad54ed53d881793df6.webp",
+    "static/media/node.webp": "/portfolio/build/static/media/node.767029b3e97f295bb0b4.webp",
+    "static/media/express.webp": "/portfolio/build/static/media/express.9a6d9832bb721b66152f.webp",
+    "static/media/photoshop.webp": "/portfolio/build/static/media/photoshop.cf096f2938d9ba1057c2.webp",
+    "static/media/vegas.webp": "/portfolio/build/static/media/vegas.f0292c5930ad1b2faec9.webp",
+    "index.html": "/portfolio/build/index.html",
+    "main.a0efe9fd.css.map": "/portfolio/build/static/css/main.a0efe9fd.css.map",
+    "main.d0de7106.js.map": "/portfolio/build/static/js/main.d0de7106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0efe9fd.css",
+    "static/js/main.d0de7106.js"
+  ]
+}

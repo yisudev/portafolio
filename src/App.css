@@ -1,0 +1,20 @@
+body{
+    background-image: url('/src/img/fondo.webp');
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(43, 42, 41);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 255, 170);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(43, 42, 41);  /* creates padding around scroll thumb */
+}
