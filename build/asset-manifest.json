@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/build/static/css/main.a0efe9fd.css",
-    "main.js": "/portfolio/build/static/js/main.d0de7106.js",
-    "static/media/CV-JESUS-BAEZ.pdf": "/portfolio/build/static/media/CV-JESUS-BAEZ.ef5dd453db8c81324cc1.pdf",
-    "static/media/fondo.webp": "/portfolio/build/static/media/fondo.5facee8440baa7a9545d.webp",
-    "static/media/foto2.webp": "/portfolio/build/static/media/foto2.c30ce9a596ecff702120.webp",
-    "static/media/react.webp": "/portfolio/build/static/media/react.bc8d00e4bb9126ac16dd.webp",
-    "static/media/sql.webp": "/portfolio/build/static/media/sql.efad54ed53d881793df6.webp",
-    "static/media/node.webp": "/portfolio/build/static/media/node.767029b3e97f295bb0b4.webp",
-    "static/media/express.webp": "/portfolio/build/static/media/express.9a6d9832bb721b66152f.webp",
-    "static/media/photoshop.webp": "/portfolio/build/static/media/photoshop.cf096f2938d9ba1057c2.webp",
-    "static/media/vegas.webp": "/portfolio/build/static/media/vegas.f0292c5930ad1b2faec9.webp",
-    "index.html": "/portfolio/build/index.html",
-    "main.a0efe9fd.css.map": "/portfolio/build/static/css/main.a0efe9fd.css.map",
-    "main.d0de7106.js.map": "/portfolio/build/static/js/main.d0de7106.js.map"
+    "main.css": "/portafolio/build/static/css/main.52e0e6d8.css",
+    "main.js": "/portafolio/build/static/js/main.2560d129.js",
+    "static/media/CV-JESUS-BAEZ.pdf": "/portafolio/build/static/media/CV-JESUS-BAEZ.ef5dd453db8c81324cc1.pdf",
+    "static/media/fondo.webp": "/portafolio/build/static/media/fondo.5facee8440baa7a9545d.webp",
+    "static/media/foto2.webp": "/portafolio/build/static/media/foto2.c30ce9a596ecff702120.webp",
+    "static/media/react.webp": "/portafolio/build/static/media/react.bc8d00e4bb9126ac16dd.webp",
+    "static/media/sql.webp": "/portafolio/build/static/media/sql.efad54ed53d881793df6.webp",
+    "static/media/node.webp": "/portafolio/build/static/media/node.767029b3e97f295bb0b4.webp",
+    "static/media/express.webp": "/portafolio/build/static/media/express.9a6d9832bb721b66152f.webp",
+    "static/media/photoshop.webp": "/portafolio/build/static/media/photoshop.cf096f2938d9ba1057c2.webp",
+    "static/media/vegas.webp": "/portafolio/build/static/media/vegas.f0292c5930ad1b2faec9.webp",
+    "index.html": "/portafolio/build/index.html",
+    "main.52e0e6d8.css.map": "/portafolio/build/static/css/main.52e0e6d8.css.map",
+    "main.2560d129.js.map": "/portafolio/build/static/js/main.2560d129.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0efe9fd.css",
-    "static/js/main.d0de7106.js"
+    "static/css/main.52e0e6d8.css",
+    "static/js/main.2560d129.js"
   ]
 }
